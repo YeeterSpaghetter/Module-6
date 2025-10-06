@@ -1,2 +1,2 @@
-I am a project check in repository! I just got changed in order to fullfill
-some key points of the project.
+I am a project check in repository! I am changing the file
+as needed to fullfill key points of the project.
